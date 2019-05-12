@@ -2,6 +2,16 @@
 
 This is an example of social network analysis. 
 
+### Data Description
+Dataset Used: Wikipidea Vote taken from https://snap.stanford.edu/data/wiki-Vote.html
+
+#### About the data:
+
+The network contains all the Wikipedia voting data from the inception of Wikipedia till January 2008. Nodes in the network represent wikipedia users and a directed edge from node i to node j represents that user i voted on user j.
+
+### Networkx:
+NetworkX is a Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+
 ### Tasks
 The following tasks are performed on the dataset.
 
